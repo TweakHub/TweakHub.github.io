@@ -1,0 +1,892 @@
+Package: com.gilshahar7.volumepercent
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: gilshahar7
+Installed-Size: 420
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/com.gilshahar7.volumepercent_1.0.1_iphoneos-arm64.deb
+Size: 25484
+MD5sum: 5865e136ae1209932cc478825cd4df8b
+SHA1: 21244c4e8e5cb7012671d5a63d407f94be74d9b8
+SHA256: 6314a9c43f375ef2fc49b4cb01d349c75af6098c9aa952970b6bebdb853aaf61
+Section: Tweaks
+Description: Displays the volume percentage on the stock volume HUD.
+Author: gilshahar7
+Name: VolumePercent
+
+Package: com.jaxroth.buzzbuzz
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Maintainer: Jax Roth
+Installed-Size: 180
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Conflicts: com.jaxroth.buzzbuzzstandard
+Filename: debs/com.jaxroth.buzzbuzz_1.3.1_iphoneos-arm64.deb
+Size: 10304
+MD5sum: 9ff4f48efeffc8cf07cb76b32a0be641
+SHA1: 5b81f9df53cc1db9245ccf49f2c8743b5c1ecbc4
+SHA256: c117d6382fc1d55e3e2de3bd252f58af1955c22aaf4581c09ff71a95e544e22e
+Section: Tweaks
+Description: System wide haptic feedback
+Author: Jax Roth
+Name: Buzz Buzz Lite
+
+Package: com.johnzaro.perfectbattery13
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: Johnzaro  <johnzrgnns@gmail.com>
+Installed-Size: 656
+Depends: firmware (>=13.0), mobilesubstrate, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common (>= 1.14), emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/com.johnzaro.perfectbattery13_1.3_iphoneos-arm64.deb
+Size: 277272
+MD5sum: 14da35ba3183277296e704b747365277
+SHA1: ce1002a81742f5e0155defc9d5751e1a689c3700
+SHA256: 49a47d19d81d2972dbccc63d6912aaa37073c4db2241a98b486c230b3d154c0b
+Section: Tweaks
+Description: Removes Battery Icon and adds Battery percentage label for nothced iPhones
+Author: Johnzaro  <johnzrgnns@gmail.com>
+Depiction: https://johnzaro.github.io/cydia/depiction/web/com.johnzaro.perfectbattery13.html
+Icon: https://johnzaro.github.io/cydia/assets/com.johnzaro.perfectbattery13/icon.png
+Moderndepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectbattery13.json
+Name: PerfectBattery
+Sileodepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectbattery13.json
+Tags: compatible_min::ios13.0, compatible_max::ios13.6
+
+Package: com.mtac.areyousur
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: MTAC
+Installed-Size: 2376
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/com.mtac.areyousur_1.2_iphoneos-arm64.deb
+Size: 2059032
+MD5sum: 18562150f60a5f16f9fa4cd4df768791
+SHA1: adb30bded7f03d572913bb3e12522d728ecf4f9c
+SHA256: c5dd17f93831d9dc3ff09bc6ffae4af96f2b110e3cc29c795f521b41390916fc
+Section: Tweaks
+Description: macOS Big Sur style alerts for iOS
+Author: MTAC
+Name: Are You Sur?
+
+Package: com.mtac.fingerlock
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: MTAC <mtac@mtac.app>
+Installed-Size: 956
+Depends: mobilesubstrate, firmware (>= 14.0), emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/com.mtac.fingerlock_3.0.1_iphoneos-arm64.deb
+Size: 177916
+MD5sum: 9321121404c74ec048b3bea9166efb3f
+SHA1: 2b2cf87da3e8c6a76e81d5483f0698ae4c496cf8
+SHA256: d954e4728bafcfdf7797d0fe6c3daedc5a294e93838b1adc43fdd57e761cd6d5
+Section: Tweaks
+Description: An intuitive way to unlock your device
+Author: MTAC <mtac@mtac.app>
+Name: FingerLock
+
+Package: com.mtac.taille
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: MTAC
+Installed-Size: 164
+Depends: mobilesubstrate, ws.hbang.common, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/com.mtac.taille_3.0_iphoneos-arm64.deb
+Size: 11448
+MD5sum: 6eb0c3f57900488c42a009b61d2c9810
+SHA1: 3c8b5773500db7ccef35f7fb50d946d25e0c7aec
+SHA256: 7f568d3348a718bff4923ecbbf4d9620b4e46202a5304fbec5cf360d8fcc2ce2
+Section: Tweaks
+Description: Show app disk usage from 3D Touch menu
+Author: MTAC
+Name: Taille
+
+Package: com.muirey03.libimagepicker
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: Muirey03
+Installed-Size: 324
+Filename: debs/com.muirey03.libimagepicker_1.0.4_iphoneos-arm64.deb
+Size: 17460
+MD5sum: a90b89e873162411831283f7c55b94c0
+SHA1: 5c3d3e2904f5b4039539e596a0866880c3b5a8f8
+SHA256: 3b2eefdaa6b9d554a2bf9b288c77cb32874c1b2bb401c3c809a2fa20ef413fbc
+Section: Development
+Description: A simple library for choosing images in preference bundles.
+Tag: role::developer
+Author: Muirey03
+Name: libimagepicker
+
+Package: com.muirey03.powermodule
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Maintainer: Muirey03
+Installed-Size: 652
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/com.muirey03.powermodule_1.3.1_iphoneos-arm64.deb
+Size: 75660
+MD5sum: 888c69a57d2dcd0bc879a7b747dd302e
+SHA1: c2bd33de4f62a11d01fa61ff5f4ab858bbaac802
+SHA256: c1ca8db27dcc5b6c2ba22e2ed187b14e2a92777e759b2cace6e819277bf6004d
+Section: Tweaks
+Description: Group different utility actions into one control center module (iOS 11 only)
+Author: Muirey03
+Depiction: https://auxiliumdev.com/depictions/powermodule/
+Icon: https://auxiliumdev.com/depictions/powermodule/image.jpg
+Name: PowerModule
+
+Package: com.ryannair05.snoverlay
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Ryan Nair
+Installed-Size: 504
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0), emt.paisseon.xinamine (>= 0.0.5)
+Replaces: com.leftyfl1p.snoverlay
+Filename: debs/com.ryannair05.snoverlay_1.0.1_iphoneos-arm64.deb
+Size: 105400
+MD5sum: 46048270e1085692a37a8c68ff479db4
+SHA1: e185bb666f3c455c39e6576446b6967dfc363a9d
+SHA256: 928367a60254819376c458848e95d4d09a5b83ffc1220453c8d996a701e21a75
+Section: Tweaks
+Description: Falling Snowflakes
+Author: Ryan Nair
+Name: Snoverlay 2
+
+Package: com.samgisaninja.mcsplash
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: Samg_is_a_Ninja
+Installed-Size: 764
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/com.samgisaninja.mcsplash_1.1.1_iphoneos-arm64.deb
+Size: 452424
+MD5sum: cb0ed026e1d78fb87ec9b7ce0edb4c41
+SHA1: 2dd22ce6fc4f817427cd4600bcfbdb81618d542e
+SHA256: bc56c5e66f26a6e23ffe55f19ebf7d090142909a7937b75c5cfe0117aed9ed47
+Section: Tweaks
+Description: Minecraft splashes on your lock screen
+Author: Samg_is_a_Ninja
+Name: Bedrock
+
+Package: com.spark.sneakycam
+Version: 2.0.6
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 560
+Depends: mobilesubstrate, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/com.spark.sneakycam_2.0.6_iphoneos-arm64.deb
+Size: 107868
+MD5sum: 46ff6d3447f1640ccaa856630cef562b
+SHA1: 32782137bd8ff37bc9b61e1451bf2a04f2669f38
+SHA256: f882ecfea8bfb132d0b7aa55a786e3370c712934cc77b4250c42b1e42a96fe06
+Section: Tweaks
+Description: Discretely take a photo or record a video from anywhere, even with your screen off.
+Author: Spark
+Name: SneakyCam
+
+Package: com.thomz.hapticbuttons
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: thomz
+Installed-Size: 540
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/com.thomz.hapticbuttons_1.2.0_iphoneos-arm64.deb
+Size: 172696
+MD5sum: 70b4a8c2a6a14f57345be6f93d334cba
+SHA1: c1c4867df71187e95cab4de6f87ccf9e308f4812
+SHA256: 732d957af784175d4e3c72eca7b7b3f81b37983b4ecad5f38a3837dc0aa81329
+Section: Tweaks
+Description: Add haptic feedbacks to your volume buttons
+Author: thomz
+Icon: file:///Library/PreferenceBundles/HapticButtonsPrefs.bundle/iconFullSize.png
+Name: Haptic Buttons
+
+Package: me.daveapps.counted
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Dave van Wijk <vanwijkdave@gmail.com>
+Installed-Size: 268
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/me.daveapps.counted_1.1_iphoneos-arm64.deb
+Size: 47876
+MD5sum: 6f190dbaf5830c233f79fc4a57a773f2
+SHA1: 151bcc143f48992775cbd306029fe0b0b79715f5
+SHA256: 0827b2e9e1dcd6c46667fb437ee8040a093d58c8deb7f74bfcf3346dae14364e
+Section: Tweaks
+Description: Your days are Counted
+Tag: compatible_min::ios13.0
+Author: Dave van Wijk <vanwijkdave@gmail.com>
+Depiction: https://repo.chariz.com/package/me.daveapps.counted/
+Icon: https://chariz.com/cdn/icon/counted/icon@3x.png
+Name: Counted
+Support: https://github.com/vanwijkdave/Counted/issues
+
+Package: me.nepeta.axon
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: Baw Appie
+Installed-Size: 584
+Depends: mobilesubstrate, firmware (>= 11.0), emt.paisseon.xinamine (>= 0.0.5)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: debs/me.nepeta.axon_1.4_iphoneos-arm64.deb
+Size: 143944
+MD5sum: 4f7e55723e2c09f9036062205abe067e
+SHA1: 3a5400cf28f277fe383dcd3410442a540dae271c
+SHA256: 73555b7bc46c10bd4d9159f4851dd42fc7384e850159f6f7ecc2e5ff05f6ad15
+Section: Tweaks
+Description: Priority Hub for iOS 11 and 12
+Author: Nepeta & Baw Appie
+Name: Axon
+
+Package: xyz.cypwn.animplus
+Version: 2.5k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 648
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, applist, emt.paisseon.xinamine (>= 0.0.5)
+Conflicts: com.mostafa89.fastup, ru.rejail.animationsbefastplus_5.0k, com.adamseiter.animationsbefast,com.pulandres.animationsbefastpluss, jp.novi.FakeClockUp, jp.novi.FakeClockUp2, com.zezblog.noslowanimationsar, com.marcosinghof.noslowanimations, com.pknauf.nsa, com.idevicehacked.nsa, com.hackyouriphone.animationsbefastplus, com.hackyouriphone.animationsbefast, org.cydia.kiimo.animationsbefastplus, ru.rejail.animationsbefastplus
+Filename: debs/xyz.cypwn.animplus_2.5k_iphoneos-arm64.deb
+Size: 77828
+MD5sum: 1ba83bbfbb51abb3deffc1c585ad0ada
+SHA1: 7a4ab82e884c38069bea369d97bc869edf5ebb07
+SHA256: 60e31d42590f0455edaecd60779c8e2d1f3a0d50c3d0e176377596e023a881c0
+Section: Tweaks
+Description: Speed up those animations
+Author: eXqusic
+Depiction: https://repo.cypwn.xyz/depiction/11
+Icon: https://repo.packix.com/api/Packages/5f8bcaeb0dddf7001a46cb12/icon/download?size=medium&hash=5f8bcaeb0dddf7001a46cb18
+Name: AnimPlus
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/11
+
+Package: xyz.cypwn.badgebarx
+Version: 1.3.7
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), org.thebigboss.libcolorpicker, emt.paisseon.xinamine (>= 0.0.5)
+Conflicts: me.conorthedev.pastel, me.conorthedev.dotto+
+Filename: debs/xyz.cypwn.badgebarx_1.3.7_iphoneos-arm64.deb
+Size: 149052
+MD5sum: 62f40ca7e09396c85d7103932d4f74cf
+SHA1: e7f643e3bbc5e3989dd1ae4c684367cda000aea2
+SHA256: 18be49eac9ff6263dd669262bef58817df6a96ed5eb2079fd63f273d5d37a025
+Section: Tweaks
+Description: Replace the stock ugly Badges with a BadgeBar. Modded by Sudo for Xina.
+Author: JannikCrack
+Depiction: https://repo.cypwn.xyz/depiction/1095
+Icon: https://chariz.com/cdn/icon/badgebar/icon@3x.png
+Name: BadgeBar X
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1095
+
+Package: xyz.cypwn.batterynotch
+Version: 1.8.2k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.8), preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/xyz.cypwn.batterynotch_1.8.2k_iphoneos-arm64.deb
+Size: 94680
+MD5sum: 85ae1e745e7dbbe74edcd588b590756a
+SHA1: 9768becc638d83b33e9b8d7e25bb5e85e580cacf
+SHA256: 7bcceb94b0215980145a9ccbafa0dc04259699c4a63794626d7dac011266be69
+Section: Tweaks
+Description: Represent battery around the notch
+Author: gilshahar7
+Depiction: https://repo.cypwn.xyz/depiction/898
+Icon: https://media.havoc.app/620c66367669e842d27d36a3
+Name: BatteryNotch
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/898
+
+Package: xyz.cypwn.lscontacts
+Version: 3.2.9
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 1760
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, firmware (>= 13.0), emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/xyz.cypwn.lscontacts_3.2.9_iphoneos-arm64.deb
+Size: 1018076
+MD5sum: 83f931b7ed2a1c8c3ef7642e0722b0ac
+SHA1: 44610a2e7ce0f00ba004ec978ed110bdb26e64d5
+SHA256: 9f434792764b0c8ae3a2b1835c2f124b60c60857aa8fe7fbdb6982a44eaddc1a
+Section: Tweaks
+Description: Contacts bar right from your lockscreen
+Author: 0xkuj
+Depiction: https://repo.cypwn.xyz/depiction/172
+Icon: https://repo.packix.com/api/Packages/5f808efd4be494001b7ea3b9/icon/download?size=medium&hash=5f808efd4be494001b7ea3bf
+Name: LS Contacts
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/172
+
+Package: xyz.cypwn.macpass
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: firmware (>=13.0), mobilesubstrate, com.spark.libsparkcolourpicker, com.muirey03.libimagepicker, ws.hbang.common, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/xyz.cypwn.macpass_1.3_iphoneos-arm64.deb
+Size: 192052
+MD5sum: 68edbfcc126bbfb3c6ab2e3ca447c868
+SHA1: 388c36e6b2f2b62570ad681801f299b49375df2d
+SHA256: 04c886ca93a89af85b5fcb299e6c742cda475796a352d67611743982c118c575
+Section: Tweaks
+Homepage: https://nahtedetihw.github.io
+Description: MacOS login screen for iOS!
+Author: ETHN <ethanwhited2208@gmail.com>
+Depiction: https://repo.cypwn.xyz/depiction/176
+Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.macpass/icon.png
+Name: MacPass
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/176
+
+Package: xyz.cypwn.pagebar
+Version: 0.0.1-alpha
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/xyz.cypwn.pagebar_0.0.1-alpha_iphoneos-arm64.deb
+Size: 13684
+MD5sum: 954d649e2a07e2a603585d8943274db9
+SHA1: 6b76914118cb501367140e8dddf092f4d854a91a
+SHA256: d18ff60a999c603b80c5111cf260dac40fb540c9df733b46aa6876ce6bbd89b6
+Section: Tweaks
+Description: Page dots... but a bar. No options to configure. If off-centered, use Atria to align it.
+Author: kritanta
+Depiction: https://repo.cypwn.xyz/depiction/1119
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/pagebar.png
+Name: Pagebar
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1119
+
+Package: xyz.cypwn.panic
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/xyz.cypwn.panic_1.1.2_iphoneos-arm64.deb
+Size: 38660
+MD5sum: fb36a84e20f6ed1284b27fb94fd9552f
+SHA1: 44640f6c1ee0f09fe0f2d4a2e5678c71b99d4e6d
+SHA256: b6f50a31e3c7412a05133830a9e7cff732701c3f6b82ccc104bf1d1611281d23
+Section: Tweaks
+Description: Respring or Safe Mode with hardware keys
+Author: Aarnav Tale
+Depiction: https://repo.cypwn.xyz/depiction/745
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/panic.png
+Name: Panic
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/745
+
+Package: xyz.cypwn.rena
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 412
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/xyz.cypwn.rena_1.0.0_iphoneos-arm64.deb
+Size: 56952
+MD5sum: 58f0665c3dad311a9d2f5ecfa19570da
+SHA1: b1c5403fb1c857fe7901e6dda76c0a15b231a097
+SHA256: 23040e48d78813b49ccdd8efb52c4e29b56f309e033704943d32066699e4af28
+Section: Tweaks
+Description: Open favorite applications from lock screen for iOS15.
+Author: sugiuta
+Depiction: https://repo.cypwn.xyz/depiction/1123
+Icon: https://media.havoc.app/64396e6645d40f4b5077d95a
+Name: Rena
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1123
+
+Package: xyz.cypwn.scorpion
+Version: 1.4.3
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 2308
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), firmware (>= 13.0), ws.hbang.alderis, com.spark.libsparkapplist, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/xyz.cypwn.scorpion_1.4.3_iphoneos-arm64.deb
+Size: 831148
+MD5sum: c29d969cf4734396a035f41bd284fea0
+SHA1: a8594c729f761a069e05e27a9fc3fb1f3a664ab4
+SHA256: f2e8864d15c06650b31c013cef58acfed014060501a67e6ae2e5582f443d2d01
+Section: Tweaks
+Description: Intrusive call interface? Say no more.
+Author: Esquilli
+Depiction: https://repo.cypwn.xyz/depiction/234
+Icon: https://repo.dynastic.co/data/static/version/463873705550807040/463873705697607680?size=180
+Name: Scorpion
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/234
+
+Package: xyz.cypwn.velaris
+Version: 1.1k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 3124
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/xyz.cypwn.velaris_1.1k_iphoneos-arm64.deb
+Size: 1546056
+MD5sum: 4cdc0898adb6bf7ef95b1276bb93eab0
+SHA1: 93ac2060331122542418070fee8ff652d47b9c25
+SHA256: e06ecbeabbe016bf1e16d5b26ffa049dd41566d216995302d6dca4c3e6c6dee6
+Section: Tweaks
+Description: Calendar and weather on your home screen
+Author: Ben Giannis
+Depiction: https://repo.cypwn.xyz/depiction/262
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/velaris.png
+Name: Velaris
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/262
+
+Package: xyz.cypwn.zenith14
+Version: 1.2.14
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 672
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/xyz.cypwn.zenith14_1.2.14_iphoneos-arm64.deb
+Size: 230808
+MD5sum: 929f5ea5acefce5561ce22375d2f9f0c
+SHA1: 1b147479656ce13234d93306a8894d5c79188b59
+SHA256: 1ad8d429bffb3f6761cf757096e0304b8040099d29795b4e34c866ada5584207
+Section: Tweaks
+Description: Organization Done Right
+Author: Muirey03
+Depiction: https://repo.cypwn.xyz/depiction/296
+Icon: https://repo.packix.com/api/Packages/5c0014acb4bc37001219896c/icon/download?size=medium&hash=5ccc6aaa945bff00112b8f4c
+Name: Zenith (iOS 14)
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/296
+
+Package: com.gilshahar7.volumepercent
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: gilshahar7
+Installed-Size: 420
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/com.gilshahar7.volumepercent_1.0.1_iphoneos-arm64.deb
+Size: 25484
+MD5sum: 5865e136ae1209932cc478825cd4df8b
+SHA1: 21244c4e8e5cb7012671d5a63d407f94be74d9b8
+SHA256: 6314a9c43f375ef2fc49b4cb01d349c75af6098c9aa952970b6bebdb853aaf61
+Section: Tweaks
+Description: Displays the volume percentage on the stock volume HUD.
+Author: gilshahar7
+Name: VolumePercent
+
+Package: com.jaxroth.buzzbuzz
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Maintainer: Jax Roth
+Installed-Size: 180
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Conflicts: com.jaxroth.buzzbuzzstandard
+Filename: debs/com.jaxroth.buzzbuzz_1.3.1_iphoneos-arm64.deb
+Size: 10304
+MD5sum: 9ff4f48efeffc8cf07cb76b32a0be641
+SHA1: 5b81f9df53cc1db9245ccf49f2c8743b5c1ecbc4
+SHA256: c117d6382fc1d55e3e2de3bd252f58af1955c22aaf4581c09ff71a95e544e22e
+Section: Tweaks
+Description: System wide haptic feedback
+Author: Jax Roth
+Name: Buzz Buzz Lite
+
+Package: com.johnzaro.perfectbattery13
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: Johnzaro  <johnzrgnns@gmail.com>
+Installed-Size: 656
+Depends: firmware (>=13.0), mobilesubstrate, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common (>= 1.14), emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/com.johnzaro.perfectbattery13_1.3_iphoneos-arm64.deb
+Size: 277272
+MD5sum: 14da35ba3183277296e704b747365277
+SHA1: ce1002a81742f5e0155defc9d5751e1a689c3700
+SHA256: 49a47d19d81d2972dbccc63d6912aaa37073c4db2241a98b486c230b3d154c0b
+Section: Tweaks
+Description: Removes Battery Icon and adds Battery percentage label for nothced iPhones
+Author: Johnzaro  <johnzrgnns@gmail.com>
+Depiction: https://johnzaro.github.io/cydia/depiction/web/com.johnzaro.perfectbattery13.html
+Icon: https://johnzaro.github.io/cydia/assets/com.johnzaro.perfectbattery13/icon.png
+Moderndepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectbattery13.json
+Name: PerfectBattery
+Sileodepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectbattery13.json
+Tags: compatible_min::ios13.0, compatible_max::ios13.6
+
+Package: com.mtac.areyousur
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: MTAC
+Installed-Size: 2376
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/com.mtac.areyousur_1.2_iphoneos-arm64.deb
+Size: 2059032
+MD5sum: 18562150f60a5f16f9fa4cd4df768791
+SHA1: adb30bded7f03d572913bb3e12522d728ecf4f9c
+SHA256: c5dd17f93831d9dc3ff09bc6ffae4af96f2b110e3cc29c795f521b41390916fc
+Section: Tweaks
+Description: macOS Big Sur style alerts for iOS
+Author: MTAC
+Name: Are You Sur?
+
+Package: com.mtac.fingerlock
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: MTAC <mtac@mtac.app>
+Installed-Size: 956
+Depends: mobilesubstrate, firmware (>= 14.0), emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/com.mtac.fingerlock_3.0.1_iphoneos-arm64.deb
+Size: 177916
+MD5sum: 9321121404c74ec048b3bea9166efb3f
+SHA1: 2b2cf87da3e8c6a76e81d5483f0698ae4c496cf8
+SHA256: d954e4728bafcfdf7797d0fe6c3daedc5a294e93838b1adc43fdd57e761cd6d5
+Section: Tweaks
+Description: An intuitive way to unlock your device
+Author: MTAC <mtac@mtac.app>
+Name: FingerLock
+
+Package: com.mtac.taille
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: MTAC
+Installed-Size: 164
+Depends: mobilesubstrate, ws.hbang.common, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/com.mtac.taille_3.0_iphoneos-arm64.deb
+Size: 11448
+MD5sum: 6eb0c3f57900488c42a009b61d2c9810
+SHA1: 3c8b5773500db7ccef35f7fb50d946d25e0c7aec
+SHA256: 7f568d3348a718bff4923ecbbf4d9620b4e46202a5304fbec5cf360d8fcc2ce2
+Section: Tweaks
+Description: Show app disk usage from 3D Touch menu
+Author: MTAC
+Name: Taille
+
+Package: com.muirey03.libimagepicker
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: Muirey03
+Installed-Size: 324
+Filename: debs/com.muirey03.libimagepicker_1.0.4_iphoneos-arm64.deb
+Size: 17460
+MD5sum: a90b89e873162411831283f7c55b94c0
+SHA1: 5c3d3e2904f5b4039539e596a0866880c3b5a8f8
+SHA256: 3b2eefdaa6b9d554a2bf9b288c77cb32874c1b2bb401c3c809a2fa20ef413fbc
+Section: Development
+Description: A simple library for choosing images in preference bundles.
+Tag: role::developer
+Author: Muirey03
+Name: libimagepicker
+
+Package: com.muirey03.powermodule
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Maintainer: Muirey03
+Installed-Size: 652
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/com.muirey03.powermodule_1.3.1_iphoneos-arm64.deb
+Size: 75660
+MD5sum: 888c69a57d2dcd0bc879a7b747dd302e
+SHA1: c2bd33de4f62a11d01fa61ff5f4ab858bbaac802
+SHA256: c1ca8db27dcc5b6c2ba22e2ed187b14e2a92777e759b2cace6e819277bf6004d
+Section: Tweaks
+Description: Group different utility actions into one control center module (iOS 11 only)
+Author: Muirey03
+Depiction: https://auxiliumdev.com/depictions/powermodule/
+Icon: https://auxiliumdev.com/depictions/powermodule/image.jpg
+Name: PowerModule
+
+Package: com.ryannair05.snoverlay
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Ryan Nair
+Installed-Size: 504
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0), emt.paisseon.xinamine (>= 0.0.5)
+Replaces: com.leftyfl1p.snoverlay
+Filename: debs/com.ryannair05.snoverlay_1.0.1_iphoneos-arm64.deb
+Size: 105400
+MD5sum: 46048270e1085692a37a8c68ff479db4
+SHA1: e185bb666f3c455c39e6576446b6967dfc363a9d
+SHA256: 928367a60254819376c458848e95d4d09a5b83ffc1220453c8d996a701e21a75
+Section: Tweaks
+Description: Falling Snowflakes
+Author: Ryan Nair
+Name: Snoverlay 2
+
+Package: com.samgisaninja.mcsplash
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: Samg_is_a_Ninja
+Installed-Size: 764
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/com.samgisaninja.mcsplash_1.1.1_iphoneos-arm64.deb
+Size: 452424
+MD5sum: cb0ed026e1d78fb87ec9b7ce0edb4c41
+SHA1: 2dd22ce6fc4f817427cd4600bcfbdb81618d542e
+SHA256: bc56c5e66f26a6e23ffe55f19ebf7d090142909a7937b75c5cfe0117aed9ed47
+Section: Tweaks
+Description: Minecraft splashes on your lock screen
+Author: Samg_is_a_Ninja
+Name: Bedrock
+
+Package: com.spark.sneakycam
+Version: 2.0.6
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 560
+Depends: mobilesubstrate, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/com.spark.sneakycam_2.0.6_iphoneos-arm64.deb
+Size: 107868
+MD5sum: 46ff6d3447f1640ccaa856630cef562b
+SHA1: 32782137bd8ff37bc9b61e1451bf2a04f2669f38
+SHA256: f882ecfea8bfb132d0b7aa55a786e3370c712934cc77b4250c42b1e42a96fe06
+Section: Tweaks
+Description: Discretely take a photo or record a video from anywhere, even with your screen off.
+Author: Spark
+Name: SneakyCam
+
+Package: com.thomz.hapticbuttons
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: thomz
+Installed-Size: 540
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/com.thomz.hapticbuttons_1.2.0_iphoneos-arm64.deb
+Size: 172696
+MD5sum: 70b4a8c2a6a14f57345be6f93d334cba
+SHA1: c1c4867df71187e95cab4de6f87ccf9e308f4812
+SHA256: 732d957af784175d4e3c72eca7b7b3f81b37983b4ecad5f38a3837dc0aa81329
+Section: Tweaks
+Description: Add haptic feedbacks to your volume buttons
+Author: thomz
+Icon: file:///Library/PreferenceBundles/HapticButtonsPrefs.bundle/iconFullSize.png
+Name: Haptic Buttons
+
+Package: me.daveapps.counted
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Dave van Wijk <vanwijkdave@gmail.com>
+Installed-Size: 268
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/me.daveapps.counted_1.1_iphoneos-arm64.deb
+Size: 47876
+MD5sum: 6f190dbaf5830c233f79fc4a57a773f2
+SHA1: 151bcc143f48992775cbd306029fe0b0b79715f5
+SHA256: 0827b2e9e1dcd6c46667fb437ee8040a093d58c8deb7f74bfcf3346dae14364e
+Section: Tweaks
+Description: Your days are Counted
+Tag: compatible_min::ios13.0
+Author: Dave van Wijk <vanwijkdave@gmail.com>
+Depiction: https://repo.chariz.com/package/me.daveapps.counted/
+Icon: https://chariz.com/cdn/icon/counted/icon@3x.png
+Name: Counted
+Support: https://github.com/vanwijkdave/Counted/issues
+
+Package: me.nepeta.axon
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: Baw Appie
+Installed-Size: 584
+Depends: mobilesubstrate, firmware (>= 11.0), emt.paisseon.xinamine (>= 0.0.5)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: debs/me.nepeta.axon_1.4_iphoneos-arm64.deb
+Size: 143944
+MD5sum: 4f7e55723e2c09f9036062205abe067e
+SHA1: 3a5400cf28f277fe383dcd3410442a540dae271c
+SHA256: 73555b7bc46c10bd4d9159f4851dd42fc7384e850159f6f7ecc2e5ff05f6ad15
+Section: Tweaks
+Description: Priority Hub for iOS 11 and 12
+Author: Nepeta & Baw Appie
+Name: Axon
+
+Package: xyz.cypwn.animplus
+Version: 2.5k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 648
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, applist, emt.paisseon.xinamine (>= 0.0.5)
+Conflicts: com.mostafa89.fastup, ru.rejail.animationsbefastplus_5.0k, com.adamseiter.animationsbefast,com.pulandres.animationsbefastpluss, jp.novi.FakeClockUp, jp.novi.FakeClockUp2, com.zezblog.noslowanimationsar, com.marcosinghof.noslowanimations, com.pknauf.nsa, com.idevicehacked.nsa, com.hackyouriphone.animationsbefastplus, com.hackyouriphone.animationsbefast, org.cydia.kiimo.animationsbefastplus, ru.rejail.animationsbefastplus
+Filename: debs/xyz.cypwn.animplus_2.5k_iphoneos-arm64.deb
+Size: 77828
+MD5sum: 1ba83bbfbb51abb3deffc1c585ad0ada
+SHA1: 7a4ab82e884c38069bea369d97bc869edf5ebb07
+SHA256: 60e31d42590f0455edaecd60779c8e2d1f3a0d50c3d0e176377596e023a881c0
+Section: Tweaks
+Description: Speed up those animations
+Author: eXqusic
+Depiction: https://repo.cypwn.xyz/depiction/11
+Icon: https://repo.packix.com/api/Packages/5f8bcaeb0dddf7001a46cb12/icon/download?size=medium&hash=5f8bcaeb0dddf7001a46cb18
+Name: AnimPlus
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/11
+
+Package: xyz.cypwn.badgebarx
+Version: 1.3.7
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), org.thebigboss.libcolorpicker, emt.paisseon.xinamine (>= 0.0.5)
+Conflicts: me.conorthedev.pastel, me.conorthedev.dotto+
+Filename: debs/xyz.cypwn.badgebarx_1.3.7_iphoneos-arm64.deb
+Size: 149052
+MD5sum: 62f40ca7e09396c85d7103932d4f74cf
+SHA1: e7f643e3bbc5e3989dd1ae4c684367cda000aea2
+SHA256: 18be49eac9ff6263dd669262bef58817df6a96ed5eb2079fd63f273d5d37a025
+Section: Tweaks
+Description: Replace the stock ugly Badges with a BadgeBar. Modded by Sudo for Xina.
+Author: JannikCrack
+Depiction: https://repo.cypwn.xyz/depiction/1095
+Icon: https://chariz.com/cdn/icon/badgebar/icon@3x.png
+Name: BadgeBar X
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1095
+
+Package: xyz.cypwn.batterynotch
+Version: 1.8.2k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.8), preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/xyz.cypwn.batterynotch_1.8.2k_iphoneos-arm64.deb
+Size: 94680
+MD5sum: 85ae1e745e7dbbe74edcd588b590756a
+SHA1: 9768becc638d83b33e9b8d7e25bb5e85e580cacf
+SHA256: 7bcceb94b0215980145a9ccbafa0dc04259699c4a63794626d7dac011266be69
+Section: Tweaks
+Description: Represent battery around the notch
+Author: gilshahar7
+Depiction: https://repo.cypwn.xyz/depiction/898
+Icon: https://media.havoc.app/620c66367669e842d27d36a3
+Name: BatteryNotch
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/898
+
+Package: xyz.cypwn.lscontacts
+Version: 3.2.9
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 1760
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, firmware (>= 13.0), emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/xyz.cypwn.lscontacts_3.2.9_iphoneos-arm64.deb
+Size: 1018076
+MD5sum: 83f931b7ed2a1c8c3ef7642e0722b0ac
+SHA1: 44610a2e7ce0f00ba004ec978ed110bdb26e64d5
+SHA256: 9f434792764b0c8ae3a2b1835c2f124b60c60857aa8fe7fbdb6982a44eaddc1a
+Section: Tweaks
+Description: Contacts bar right from your lockscreen
+Author: 0xkuj
+Depiction: https://repo.cypwn.xyz/depiction/172
+Icon: https://repo.packix.com/api/Packages/5f808efd4be494001b7ea3b9/icon/download?size=medium&hash=5f808efd4be494001b7ea3bf
+Name: LS Contacts
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/172
+
+Package: xyz.cypwn.macpass
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: firmware (>=13.0), mobilesubstrate, com.spark.libsparkcolourpicker, com.muirey03.libimagepicker, ws.hbang.common, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/xyz.cypwn.macpass_1.3_iphoneos-arm64.deb
+Size: 192052
+MD5sum: 68edbfcc126bbfb3c6ab2e3ca447c868
+SHA1: 388c36e6b2f2b62570ad681801f299b49375df2d
+SHA256: 04c886ca93a89af85b5fcb299e6c742cda475796a352d67611743982c118c575
+Section: Tweaks
+Homepage: https://nahtedetihw.github.io
+Description: MacOS login screen for iOS!
+Author: ETHN <ethanwhited2208@gmail.com>
+Depiction: https://repo.cypwn.xyz/depiction/176
+Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.macpass/icon.png
+Name: MacPass
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/176
+
+Package: xyz.cypwn.pagebar
+Version: 0.0.1-alpha
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/xyz.cypwn.pagebar_0.0.1-alpha_iphoneos-arm64.deb
+Size: 13684
+MD5sum: 954d649e2a07e2a603585d8943274db9
+SHA1: 6b76914118cb501367140e8dddf092f4d854a91a
+SHA256: d18ff60a999c603b80c5111cf260dac40fb540c9df733b46aa6876ce6bbd89b6
+Section: Tweaks
+Description: Page dots... but a bar. No options to configure. If off-centered, use Atria to align it.
+Author: kritanta
+Depiction: https://repo.cypwn.xyz/depiction/1119
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/pagebar.png
+Name: Pagebar
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1119
+
+Package: xyz.cypwn.panic
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/xyz.cypwn.panic_1.1.2_iphoneos-arm64.deb
+Size: 38660
+MD5sum: fb36a84e20f6ed1284b27fb94fd9552f
+SHA1: 44640f6c1ee0f09fe0f2d4a2e5678c71b99d4e6d
+SHA256: b6f50a31e3c7412a05133830a9e7cff732701c3f6b82ccc104bf1d1611281d23
+Section: Tweaks
+Description: Respring or Safe Mode with hardware keys
+Author: Aarnav Tale
+Depiction: https://repo.cypwn.xyz/depiction/745
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/panic.png
+Name: Panic
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/745
+
+Package: xyz.cypwn.rena
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 412
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/xyz.cypwn.rena_1.0.0_iphoneos-arm64.deb
+Size: 56952
+MD5sum: 58f0665c3dad311a9d2f5ecfa19570da
+SHA1: b1c5403fb1c857fe7901e6dda76c0a15b231a097
+SHA256: 23040e48d78813b49ccdd8efb52c4e29b56f309e033704943d32066699e4af28
+Section: Tweaks
+Description: Open favorite applications from lock screen for iOS15.
+Author: sugiuta
+Depiction: https://repo.cypwn.xyz/depiction/1123
+Icon: https://media.havoc.app/64396e6645d40f4b5077d95a
+Name: Rena
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1123
+
+Package: xyz.cypwn.scorpion
+Version: 1.4.3
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 2308
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), firmware (>= 13.0), ws.hbang.alderis, com.spark.libsparkapplist, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/xyz.cypwn.scorpion_1.4.3_iphoneos-arm64.deb
+Size: 831148
+MD5sum: c29d969cf4734396a035f41bd284fea0
+SHA1: a8594c729f761a069e05e27a9fc3fb1f3a664ab4
+SHA256: f2e8864d15c06650b31c013cef58acfed014060501a67e6ae2e5582f443d2d01
+Section: Tweaks
+Description: Intrusive call interface? Say no more.
+Author: Esquilli
+Depiction: https://repo.cypwn.xyz/depiction/234
+Icon: https://repo.dynastic.co/data/static/version/463873705550807040/463873705697607680?size=180
+Name: Scorpion
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/234
+
+Package: xyz.cypwn.velaris
+Version: 1.1k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 3124
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/xyz.cypwn.velaris_1.1k_iphoneos-arm64.deb
+Size: 1546056
+MD5sum: 4cdc0898adb6bf7ef95b1276bb93eab0
+SHA1: 93ac2060331122542418070fee8ff652d47b9c25
+SHA256: e06ecbeabbe016bf1e16d5b26ffa049dd41566d216995302d6dca4c3e6c6dee6
+Section: Tweaks
+Description: Calendar and weather on your home screen
+Author: Ben Giannis
+Depiction: https://repo.cypwn.xyz/depiction/262
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/velaris.png
+Name: Velaris
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/262
+
+Package: xyz.cypwn.zenith14
+Version: 1.2.14
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 672
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/xyz.cypwn.zenith14_1.2.14_iphoneos-arm64.deb
+Size: 230808
+MD5sum: 929f5ea5acefce5561ce22375d2f9f0c
+SHA1: 1b147479656ce13234d93306a8894d5c79188b59
+SHA256: 1ad8d429bffb3f6761cf757096e0304b8040099d29795b4e34c866ada5584207
+Section: Tweaks
+Description: Organization Done Right
+Author: Muirey03
+Depiction: https://repo.cypwn.xyz/depiction/296
+Icon: https://repo.packix.com/api/Packages/5c0014acb4bc37001219896c/icon/download?size=medium&hash=5ccc6aaa945bff00112b8f4c
+Name: Zenith (iOS 14)
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/296
+
