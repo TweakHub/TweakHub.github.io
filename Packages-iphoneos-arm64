@@ -92,26 +92,6 @@ Name: PerfectBattery
 Sileodepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectbattery13.json
 Tags: compatible_min::ios13.0, compatible_max::ios13.6
 
-Package: com.miro.shortmoji
-Version: 4.7
-Architecture: iphoneos-arm64
-Maintainer: MiRO <tweaks_support@miro92.com>
-Installed-Size: 7112
-Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
-Conflicts: com.cpdigitaldarkroom.barmoji, com.udevs.dockx, com.miro.rgboard, com.ya7yajb.shortmoji
-Filename: debs/com.miro.shortmoji_4.7_iphoneos-arm64.deb
-Size: 2158944
-MD5sum: ffc8e74f090bc07c9d3190e90fa9f37c
-SHA1: 7e2e43dcad9dd526f71f224579be3d92b003f1c8
-SHA256: 94e5b4ace4ea9a59959e40acdf863ad861abd22614fd8972f743086f39c8d4f3
-Section: Tweaks
-Description: The ultimate keyboard tweak that iOS never had.
-Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
-Author: MiRO <tweaks_support@miro92.com>
-Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
-Icon: file:////Library/PreferenceBundles/Shortmoji.bundle/Header.png
-Name: Shortmoji
-
 Package: com.mtac.areyousur
 Version: 1.2
 Architecture: iphoneos-arm64
