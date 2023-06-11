@@ -276,24 +276,6 @@ Icon: https://chariz.com/cdn/icon/badgebar/icon@3x.png
 Name: BadgeBar X
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1095
 
-Package: xyz.cypwn.batterynotch
-Version: 1.8.2k
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.8), preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
-Filename: debs/xyz.cypwn.batterynotch_1.8.2k_iphoneos-arm64.deb
-Size: 94680
-MD5sum: 85ae1e745e7dbbe74edcd588b590756a
-SHA1: 9768becc638d83b33e9b8d7e25bb5e85e580cacf
-SHA256: 7bcceb94b0215980145a9ccbafa0dc04259699c4a63794626d7dac011266be69
-Section: Tweaks
-Description: Represent battery around the notch
-Author: gilshahar7
-Depiction: https://repo.cypwn.xyz/depiction/898
-Icon: https://media.havoc.app/620c66367669e842d27d36a3
-Name: BatteryNotch
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/898
-
 Package: xyz.cypwn.lscontacts
 Version: 3.2.9
 Architecture: iphoneos-arm64
@@ -721,24 +703,6 @@ Depiction: https://repo.cypwn.xyz/depiction/1095
 Icon: https://chariz.com/cdn/icon/badgebar/icon@3x.png
 Name: BadgeBar X
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1095
-
-Package: xyz.cypwn.batterynotch
-Version: 1.8.2k
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.8), preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
-Filename: debs/xyz.cypwn.batterynotch_1.8.2k_iphoneos-arm64.deb
-Size: 94680
-MD5sum: 85ae1e745e7dbbe74edcd588b590756a
-SHA1: 9768becc638d83b33e9b8d7e25bb5e85e580cacf
-SHA256: 7bcceb94b0215980145a9ccbafa0dc04259699c4a63794626d7dac011266be69
-Section: Tweaks
-Description: Represent battery around the notch
-Author: gilshahar7
-Depiction: https://repo.cypwn.xyz/depiction/898
-Icon: https://media.havoc.app/620c66367669e842d27d36a3
-Name: BatteryNotch
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/898
 
 Package: xyz.cypwn.lscontacts
 Version: 3.2.9
