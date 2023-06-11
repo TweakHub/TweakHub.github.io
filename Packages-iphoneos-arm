@@ -167,22 +167,6 @@ Description: Minecraft splashes on your lock screen
 Author: Samg_is_a_Ninja
 Name: Bedrock
 
-Package: com.spark.sneakycam
-Version: 2.0.6
-Architecture: iphoneos-arm64
-Maintainer: Spark
-Installed-Size: 560
-Depends: mobilesubstrate, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
-Filename: debs/com.spark.sneakycam_2.0.6_iphoneos-arm64.deb
-Size: 107868
-MD5sum: 46ff6d3447f1640ccaa856630cef562b
-SHA1: 32782137bd8ff37bc9b61e1451bf2a04f2669f38
-SHA256: f882ecfea8bfb132d0b7aa55a786e3370c712934cc77b4250c42b1e42a96fe06
-Section: Tweaks
-Description: Discretely take a photo or record a video from anywhere, even with your screen off.
-Author: Spark
-Name: SneakyCam
-
 Package: com.thomz.hapticbuttons
 Version: 1.2.0
 Architecture: iphoneos-arm64
@@ -276,24 +260,6 @@ Icon: https://chariz.com/cdn/icon/badgebar/icon@3x.png
 Name: BadgeBar X
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1095
 
-Package: xyz.cypwn.batterynotch
-Version: 1.8.2k
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.8), preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
-Filename: debs/xyz.cypwn.batterynotch_1.8.2k_iphoneos-arm64.deb
-Size: 94680
-MD5sum: 85ae1e745e7dbbe74edcd588b590756a
-SHA1: 9768becc638d83b33e9b8d7e25bb5e85e580cacf
-SHA256: 7bcceb94b0215980145a9ccbafa0dc04259699c4a63794626d7dac011266be69
-Section: Tweaks
-Description: Represent battery around the notch
-Author: gilshahar7
-Depiction: https://repo.cypwn.xyz/depiction/898
-Icon: https://media.havoc.app/620c66367669e842d27d36a3
-Name: BatteryNotch
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/898
-
 Package: xyz.cypwn.lscontacts
 Version: 3.2.9
 Architecture: iphoneos-arm64
@@ -349,24 +315,6 @@ Depiction: https://repo.cypwn.xyz/depiction/1119
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/pagebar.png
 Name: Pagebar
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1119
-
-Package: xyz.cypwn.panic
-Version: 1.1.2
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
-Filename: debs/xyz.cypwn.panic_1.1.2_iphoneos-arm64.deb
-Size: 38660
-MD5sum: fb36a84e20f6ed1284b27fb94fd9552f
-SHA1: 44640f6c1ee0f09fe0f2d4a2e5678c71b99d4e6d
-SHA256: b6f50a31e3c7412a05133830a9e7cff732701c3f6b82ccc104bf1d1611281d23
-Section: Tweaks
-Description: Respring or Safe Mode with hardware keys
-Author: Aarnav Tale
-Depiction: https://repo.cypwn.xyz/depiction/745
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/panic.png
-Name: Panic
-Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/745
 
 Package: xyz.cypwn.rena
 Version: 1.0.0
