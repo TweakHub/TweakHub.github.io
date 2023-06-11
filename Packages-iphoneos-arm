@@ -321,6 +321,45 @@ Icon: https://chariz.com/cdn/icon/badgebar/icon@3x.png
 Name: BadgeBar X
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1095
 
+Package: xyz.cypwn.flexing
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 288
+Depends: xyz.cypwn.libflex, emt.paisseon.xinamine (>= 0.0.5)
+Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
+Filename: debs/xyz.cypwn.flexing_1.3.1_iphoneos-arm64.deb
+Size: 18300
+MD5sum: 55c475acf08e908142b9ab2d0c621d34
+SHA1: 56fe808173e4cb552487d2e183dba18c61a5272c
+SHA256: 9d0ad2c086785fda87eed581fe6f93561b572ed9e989d82a69bcf6e0393f5d22
+Section: Tweaks
+Description: Open FLEX anywhere! Long press status bar or 3-finger long press anywhere on screen to activate.
+Author: Tanner Bennett
+Depiction: https://repo.cypwn.xyz/depiction/833
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/flexing.png
+Name: FLEXing
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/833
+
+Package: xyz.cypwn.libflex
+Version: 5.22.10
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Conflicts: libflex
+Replaces: libflex
+Provides: libflex
+Filename: debs/xyz.cypwn.libflex_5.22.10_iphoneos-arm64.deb
+Size: 1711796
+MD5sum: d52ccd3fd508792cf39f668273ad5a1b
+SHA1: 6ea098af13be43fd5499b15a1bee7491bf55dece
+SHA256: d8873f1cbf4eb604579e0f03fae364c0a0b5c4f9e90ad7eb7e5e8eda6123286e
+Section: Tweaks
+Description: A library for Flipboard Explorer.
+Author: Tanner Bennett
+Depiction: https://repo.cypwn.xyz/depiction/832
+Name: libFLEX
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/832
+
 Package: xyz.cypwn.lscontacts
 Version: 3.2.9
 Architecture: iphoneos-arm64
