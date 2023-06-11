@@ -1,3 +1,43 @@
+Package: applist
+Version: 1.5.16-xina
+Architecture: iphoneos-arm64
+Maintainer: Ryan Petrich <rpetrich@gmail.com>
+Installed-Size: 780
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3) | firmware (<< 7.0)
+Conflicts: com.a3tweaks.polus (<< 2.0.7)
+Filename: debs/applist_1.5.16-x_iphoneos-arm64.deb
+Size: 340340
+MD5sum: c17e0459604d5df58fb9e3e142741ba2
+SHA1: 80079872f133764899fe64e62b6867f4021eb3d4
+SHA256: 82e9e288605b72a6ff4f24e1b2c50115c01eb191e6b94648669b9381ed7ca54c
+Section: System
+Description: Allow extensions to read the list of installed apps
+Author: Ryan Petrich <rpetrich@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+Dev: rpetrich
+Name: AppList
+Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+
+Package: com.creaturesurvive.libcscolorpicker
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 960
+Pre-Depends: firmware (>= 7.0)
+Filename: debs/com.creaturesurvive.libcscolorpicker_1.0.6_iphoneos-arm64.deb
+Size: 206372
+MD5sum: 76f697879d25eb88de4d65c355100ff1
+SHA1: bf610246311cac3ab44882cfe23c35ccbbec918f
+SHA256: f7c35a4ba83f1f25c4d4ad5e21fb9e145e630d992510003b8bdfc758ca3f4f6e
+Section: System
+Homepage: https://creaturecoding.com/
+Description: A minimal color picker library for developers
+Tag: purpose::extension, compatible_min::iosiOS7
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=libcscolorpicker
+Name: libCSColorPicker
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcscolorpicker
+
 Package: com.gilshahar7.volumepercent
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -51,6 +91,26 @@ Moderndepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.
 Name: PerfectBattery
 Sileodepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectbattery13.json
 Tags: compatible_min::ios13.0, compatible_max::ios13.6
+
+Package: com.miro.shortmoji
+Version: 4.7
+Architecture: iphoneos-arm64
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 7112
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
+Conflicts: com.cpdigitaldarkroom.barmoji, com.udevs.dockx, com.miro.rgboard, com.ya7yajb.shortmoji
+Filename: debs/com.miro.shortmoji_4.7_iphoneos-arm64.deb
+Size: 2158944
+MD5sum: ffc8e74f090bc07c9d3190e90fa9f37c
+SHA1: 7e2e43dcad9dd526f71f224579be3d92b003f1c8
+SHA256: 94e5b4ace4ea9a59959e40acdf863ad861abd22614fd8972f743086f39c8d4f3
+Section: Tweaks
+Description: The ultimate keyboard tweak that iOS never had.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Icon: file:////Library/PreferenceBundles/Shortmoji.bundle/Header.png
+Name: Shortmoji
 
 Package: com.mtac.areyousur
 Version: 1.2
@@ -133,6 +193,27 @@ Author: Muirey03
 Depiction: https://auxiliumdev.com/depictions/powermodule/
 Icon: https://auxiliumdev.com/depictions/powermodule/image.jpg
 Name: PowerModule
+
+Package: com.rpetrich.rocketbootstrap
+Version: 1.0.10~beta1
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/com.rpetrich.rocketbootstrap_1.0.10~beta1_iphoneos-arm64.deb
+Size: 40744
+MD5sum: 91ee0847d3fb4f6f8b4e6dbdeac160bb
+SHA1: e5c1cc2378f8e92fd42960f5200ed1f9e0f9333b
+SHA256: 53054139e3f74a7a67e058585c709e099f11473894b0cc73d968fe42b31617b5
+Section: Tweaks
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Dev: rpetrich
+Name: RocketBootstrap
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.ryannair05.snoverlay
 Version: 1.0.1
@@ -392,6 +473,46 @@ Icon: https://repo.packix.com/api/Packages/5c0014acb4bc37001219896c/icon/downloa
 Name: Zenith (iOS 14)
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/296
 
+Package: applist
+Version: 1.5.16-xina
+Architecture: iphoneos-arm64
+Maintainer: Ryan Petrich <rpetrich@gmail.com>
+Installed-Size: 780
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3) | firmware (<< 7.0)
+Conflicts: com.a3tweaks.polus (<< 2.0.7)
+Filename: debs/applist_1.5.16-x_iphoneos-arm64.deb
+Size: 340340
+MD5sum: c17e0459604d5df58fb9e3e142741ba2
+SHA1: 80079872f133764899fe64e62b6867f4021eb3d4
+SHA256: 82e9e288605b72a6ff4f24e1b2c50115c01eb191e6b94648669b9381ed7ca54c
+Section: System
+Description: Allow extensions to read the list of installed apps
+Author: Ryan Petrich <rpetrich@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+Dev: rpetrich
+Name: AppList
+Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+
+Package: com.creaturesurvive.libcscolorpicker
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 960
+Pre-Depends: firmware (>= 7.0)
+Filename: debs/com.creaturesurvive.libcscolorpicker_1.0.6_iphoneos-arm64.deb
+Size: 206372
+MD5sum: 76f697879d25eb88de4d65c355100ff1
+SHA1: bf610246311cac3ab44882cfe23c35ccbbec918f
+SHA256: f7c35a4ba83f1f25c4d4ad5e21fb9e145e630d992510003b8bdfc758ca3f4f6e
+Section: System
+Homepage: https://creaturecoding.com/
+Description: A minimal color picker library for developers
+Tag: purpose::extension, compatible_min::iosiOS7
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=libcscolorpicker
+Name: libCSColorPicker
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcscolorpicker
+
 Package: com.gilshahar7.volumepercent
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -445,6 +566,26 @@ Moderndepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.
 Name: PerfectBattery
 Sileodepiction: https://johnzaro.github.io/cydia/depiction/native/com.johnzaro.perfectbattery13.json
 Tags: compatible_min::ios13.0, compatible_max::ios13.6
+
+Package: com.miro.shortmoji
+Version: 4.7
+Architecture: iphoneos-arm64
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 7112
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), applist, com.creaturesurvive.libcscolorpicker
+Conflicts: com.cpdigitaldarkroom.barmoji, com.udevs.dockx, com.miro.rgboard, com.ya7yajb.shortmoji
+Filename: debs/com.miro.shortmoji_4.7_iphoneos-arm64.deb
+Size: 2158944
+MD5sum: ffc8e74f090bc07c9d3190e90fa9f37c
+SHA1: 7e2e43dcad9dd526f71f224579be3d92b003f1c8
+SHA256: 94e5b4ace4ea9a59959e40acdf863ad861abd22614fd8972f743086f39c8d4f3
+Section: Tweaks
+Description: The ultimate keyboard tweak that iOS never had.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji
+Icon: file:////Library/PreferenceBundles/Shortmoji.bundle/Header.png
+Name: Shortmoji
 
 Package: com.mtac.areyousur
 Version: 1.2
@@ -527,6 +668,27 @@ Author: Muirey03
 Depiction: https://auxiliumdev.com/depictions/powermodule/
 Icon: https://auxiliumdev.com/depictions/powermodule/image.jpg
 Name: PowerModule
+
+Package: com.rpetrich.rocketbootstrap
+Version: 1.0.10~beta1
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/com.rpetrich.rocketbootstrap_1.0.10~beta1_iphoneos-arm64.deb
+Size: 40744
+MD5sum: 91ee0847d3fb4f6f8b4e6dbdeac160bb
+SHA1: e5c1cc2378f8e92fd42960f5200ed1f9e0f9333b
+SHA256: 53054139e3f74a7a67e058585c709e099f11473894b0cc73d968fe42b31617b5
+Section: Tweaks
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Dev: rpetrich
+Name: RocketBootstrap
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.ryannair05.snoverlay
 Version: 1.0.1
