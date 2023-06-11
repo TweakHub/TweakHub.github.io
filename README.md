@@ -1,2 +1,4 @@
-# AIslayer-dev.github.io
-Xinamine patched tweaks.
+# TweakHub
+Xinamine patched tweaks for Dopamine and Palera1n!
+
+Free to use and share!
