@@ -4,19 +4,19 @@
   "itemCornerRadius": 0,
   "banners": [
     {
-      "url": "https://github.com/TweakHub/TweakHub.github.io/png/badgebar.png",
+      "url": "https://github.com/TweakHub/TweakHub.github.io/raw/gh-pages/png/badgebar.png",
       "title": "BadgeBar X",
       "package": "xyz.cypwn.badgebarx",
       "hideShadow": false
     },
     {
-      "url": "https://github.com/TweakHub/TweakHub.github.io/png/rena.png",
+      "url": "https://github.com/TweakHub/TweakHub.github.io/raw/gh-pages/png/rena.png",
       "title": "Rena",
       "package": "xyz.cypwn.rena",
       "hideShadow": false
     },
     {
-      "url": "https://github.com/TweakHub/TweakHub.github.io/png/snoverlay.png",
+      "url": "https://github.com/TweakHub/TweakHub.github.io/raw/gh-pages/png/snoverlay.png",
       "title": "Snoverlay 2",
       "package": "com.ryannair05.snoverlay",
       "hideShadow": false
