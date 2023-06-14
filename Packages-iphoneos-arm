@@ -108,6 +108,22 @@ Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.cccalc
 Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.png
 Name: CCCalc
 
+Package: com.gilshahar7.kleidaria
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: gilshahar7 <gilshahardex99@gmail.com>
+Installed-Size: 164
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/com.gilshahar7.kleidaria_1.0.1_iphoneos-arm64.deb
+Size: 3728
+MD5sum: 7c1e64731651218d44727c82a8077ccf
+SHA1: d575e4e13e61500888e639813f32dbab294f4c79
+SHA256: e14626a120facd07347a0e7fda5a54248d16e6b20901dc9f39349020d43c6dc2
+Section: Tweaks
+Description: Locks the device when placed face down.
+Author: gilshahar7 <gilshahardex99@gmail.com>
+Name: Kleidaria
+
 Package: com.gilshahar7.volumepercent
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -139,6 +155,22 @@ Section: Tweaks
 Description: Bypass passcode in many ways
 Author: Giorgio Iavicoli
 Name: PassBy
+
+Package: com.icraze.yteta
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Maintainer: iCraze
+Installed-Size: 344
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/com.icraze.yteta_1.3.1_iphoneos-arm64.deb
+Size: 10272
+MD5sum: 5b42b84cb8cf41263bd2cb0cdfd877f2
+SHA1: e4580260118db234969a48a02a0bac47a08809ed
+SHA256: c48c32016722f313e0610d879af6c4c8182648390240158c3bf381b26451517a
+Section: Tweaks
+Description: Display the time when a YouTube video will end.
+Author: iCraze
+Name: YTETA
 
 Package: com.iky1e.swipeselection
 Version: 1.5.3
@@ -507,6 +539,45 @@ Depiction: https://repo.cypwn.xyz/depiction/833
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/flexing.png
 Name: FLEXing
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/833
+
+Package: xyz.cypwn.gemini
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 1324
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/xyz.cypwn.gemini_1.0.4_iphoneos-arm64.deb
+Size: 828300
+MD5sum: a54cf9158bb28627ad9cc95761063363
+SHA1: 7d89965d22dbbd0c4aab066b99ff9726202b8d70
+SHA256: 8258d6a8df33d24844cc4a63f3c43bf428d96d3d909bfc554a8faed5ed2ee88f
+Section: Tweaks
+Description: Utilize your App Switcher like never before!.
+Author: GalacticDev
+Depiction: https://repo.cypwn.xyz/depiction/114
+Icon: https://repo.packix.com/api/Packages/60d2a5ec46006d001a16958c/icon/download?size=medium
+Name: Gemini
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/114
+
+Package: xyz.cypwn.imlayingdowndamnit
+Version: 1.4.7.1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 1044
+Pre-Depends: firmware(>=10.0), mobilesubstrate
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/xyz.cypwn.imlayingdowndamnit_1.4.7.1_iphoneos-arm64.deb
+Size: 117700
+MD5sum: 0c3c32faa4ff8d6dd0bbb31594e4ae56
+SHA1: 3c62fe14e3ca85564a1b3efb56a442f027dce647
+SHA256: eed778835a6abf93f8de50080fc01ffb21760bbe3f4a0a12941c5b060eb0a6be
+Section: Tweaks
+Description: Stop auto-rotate being a nusance!
+Author: CardboardFace
+Depiction: https://repo.cypwn.xyz/depiction/131
+Icon: https://repo.dynastic.co/data/static/version/321967744838795264/321967745203699712?size=332
+Name: ImLyingDownDamnit
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/131
 
 Package: xyz.cypwn.libflex
 Version: 5.22.10
