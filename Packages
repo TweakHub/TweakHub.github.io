@@ -485,6 +485,30 @@ Description: Select text to search or translate
 Author: Nepeta & Baw Appie
 Name: Selector
 
+Package: org.thebigboss.libcolorpicker
+Version: 1.6.9
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 629
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), emt.paisseon.xinamine (>= 0.0.5)
+Replaces: me.nepeta.libcolorpicker, ws.hbang.alderis
+Provides: me.nepeta.libcolorpicker, ws.hbang.alderis
+Filename: debs/org.thebigboss.libcolorpicker_1.6.9_iphoneos-arm64.deb
+Size: 114484
+MD5sum: 5a240f4dcf26aed5dd7929f985967a03
+SHA1: 6e1834387419385f72fdfe0a038687be711d7cb7
+SHA256: fda49423c7775bade357e22f826f811422178c19666add088bb5646def5a9ff6
+Section: Development
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcolorpickerDp
+Description: color picker library for developers
+Tag: purpose::library, role::developer, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, cydia::obsolete
+Author: PixelFire <pixelfiredev@helpful.io>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcolorpickerDp
+Dev: pixelfiredev
+Name: libcolorpicker
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: org.wuffs.flickplus
 Version: 0.0.9
 Architecture: iphoneos-arm64
@@ -500,6 +524,24 @@ Section: Tweaks
 Description: iPad-like key flicks on iPhone (iOS 13)
 Author: Ninji <ninji@wuffs.org>
 Name: FlicksForAll
+
+Package: ru.rj.grider
+Version: 1.3.5.1
+Architecture: iphoneos-arm64
+Maintainer: ReJail <rejail@rejail.ru>
+Installed-Size: 579
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.8), ws.hbang.common, com.opa334.ccsupport, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/ru.rj.grider_1.3.5.1_iphoneos-arm64.deb
+Size: 54448
+MD5sum: bbf777ea88d6eb891370dbdf608a1412
+SHA1: 9559a1abb0b1f2846947072be677687f7701b900
+SHA256: 4edba1c1b5e026f393f5d1cd9243e310b0567527c38e2a3d51eea4572d70adad
+Section: Tweaks
+Description: Наэкранная разделительная сетка в любом месте системы и приложениях
+Author: gilshahar7
+Depiction: https://rejail.ru/depiction.php?file=grider
+Name: Grider
+Sileodepiction: https://rejail.ru/sileo/depiction.php?file=grider
 
 Package: xyz.cypwn.badgebarx
 Version: 1.3.7
@@ -1217,6 +1259,30 @@ Description: Select text to search or translate
 Author: Nepeta & Baw Appie
 Name: Selector
 
+Package: org.thebigboss.libcolorpicker
+Version: 1.6.9
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 629
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), emt.paisseon.xinamine (>= 0.0.5)
+Replaces: me.nepeta.libcolorpicker, ws.hbang.alderis
+Provides: me.nepeta.libcolorpicker, ws.hbang.alderis
+Filename: debs/org.thebigboss.libcolorpicker_1.6.9_iphoneos-arm64.deb
+Size: 114484
+MD5sum: 5a240f4dcf26aed5dd7929f985967a03
+SHA1: 6e1834387419385f72fdfe0a038687be711d7cb7
+SHA256: fda49423c7775bade357e22f826f811422178c19666add088bb5646def5a9ff6
+Section: Development
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcolorpickerDp
+Description: color picker library for developers
+Tag: purpose::library, role::developer, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, cydia::obsolete
+Author: PixelFire <pixelfiredev@helpful.io>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcolorpickerDp
+Dev: pixelfiredev
+Name: libcolorpicker
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: org.wuffs.flickplus
 Version: 0.0.9
 Architecture: iphoneos-arm64
@@ -1232,6 +1298,24 @@ Section: Tweaks
 Description: iPad-like key flicks on iPhone (iOS 13)
 Author: Ninji <ninji@wuffs.org>
 Name: FlicksForAll
+
+Package: ru.rj.grider
+Version: 1.3.5.1
+Architecture: iphoneos-arm64
+Maintainer: ReJail <rejail@rejail.ru>
+Installed-Size: 579
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.8), ws.hbang.common, com.opa334.ccsupport, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/ru.rj.grider_1.3.5.1_iphoneos-arm64.deb
+Size: 54448
+MD5sum: bbf777ea88d6eb891370dbdf608a1412
+SHA1: 9559a1abb0b1f2846947072be677687f7701b900
+SHA256: 4edba1c1b5e026f393f5d1cd9243e310b0567527c38e2a3d51eea4572d70adad
+Section: Tweaks
+Description: Наэкранная разделительная сетка в любом месте системы и приложениях
+Author: gilshahar7
+Depiction: https://rejail.ru/depiction.php?file=grider
+Name: Grider
+Sileodepiction: https://rejail.ru/sileo/depiction.php?file=grider
 
 Package: xyz.cypwn.badgebarx
 Version: 1.3.7
