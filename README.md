@@ -1,6 +1,4 @@
 # TweakHub
 Xinamine patched tweaks for Dopamine and Palera1n!
 
-That repo support only rootless jb (No XinaA15 or something like that)
-
-*Make sure you have installed Xinamine and OldABI (Legacy Arm64e support) before use repo
+*Make sure you have installed Xinamine and OldABI (Legacy Arm64e support) before using my repo, or you have chance to got springloop*
