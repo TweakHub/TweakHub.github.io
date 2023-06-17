@@ -1,4 +1,3 @@
 # TweakHub
-Xinamine patched tweaks for Dopamine and Palera1n!
-
-*Make sure you have installed Xinamine and OldABI (Legacy Arm64e support) before using my repo, or you have chance to got springloop*
+If you updated to Dopamine 1.1, Xinamine is no more required!
+*If you use Palera1n - Xinamine is still needed*
