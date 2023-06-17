@@ -18,6 +18,23 @@ Dev: rpetrich
 Name: AppList
 Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
 
+Package: ch.mdaus.latchkey
+Version: 2.3
+Architecture: iphoneos-arm64
+Maintainer: Maxwell Dausch <max.dausch@gmail.com>
+Installed-Size: 13440
+Depends: mobilesubstrate, ws.hbang.alderis, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/ch.mdaus.latchkey_2.3_iphoneos-arm64.deb
+Size: 6497100
+MD5sum: 8974a38ef1e740e28789ffc16ee5ab03
+SHA1: 35440a5078bb990f170ef83c3388fe7395770c09
+SHA256: b22c91da7a65518a41c6b23a9a68e92d444e35015457dab2787164238ed3c0a8
+Section: Tweaks
+Description: Move and theme the Face-ID lock glyph
+Author: Maxwell Dausch <max.dausch@gmail.com>
+Depiction: https://repo.daus.ch/depictions/?p=ch.mdaus.latchkey
+Name: LatchKey
+
 Package: com.chr1s.atlas
 Version: 1.0.4
 Architecture: iphoneos-arm64
@@ -791,6 +808,23 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
 Dev: rpetrich
 Name: AppList
 Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+
+Package: ch.mdaus.latchkey
+Version: 2.3
+Architecture: iphoneos-arm64
+Maintainer: Maxwell Dausch <max.dausch@gmail.com>
+Installed-Size: 13440
+Depends: mobilesubstrate, ws.hbang.alderis, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/ch.mdaus.latchkey_2.3_iphoneos-arm64.deb
+Size: 6497100
+MD5sum: 8974a38ef1e740e28789ffc16ee5ab03
+SHA1: 35440a5078bb990f170ef83c3388fe7395770c09
+SHA256: b22c91da7a65518a41c6b23a9a68e92d444e35015457dab2787164238ed3c0a8
+Section: Tweaks
+Description: Move and theme the Face-ID lock glyph
+Author: Maxwell Dausch <max.dausch@gmail.com>
+Depiction: https://repo.daus.ch/depictions/?p=ch.mdaus.latchkey
+Name: LatchKey
 
 Package: com.chr1s.atlas
 Version: 1.0.4
