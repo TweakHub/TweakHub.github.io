@@ -579,6 +579,23 @@ Icon: https://chariz.com/cdn/icon/badgebar/icon@3x.png
 Name: BadgeBar X
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1095
 
+Package: xyz.cypwn.crayon
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Filename: debs/xyz.cypwn.crayon_1.2_iphoneos-arm64.deb
+Size: 6754360
+MD5sum: fafa5f3e60f16c46a437f8039947a60b
+SHA1: 170f54ebc85793935eb20bf119c7b7e07ac610dc
+SHA256: b6ae280cc65a991e1a57bf985e0048f060b22bf74d754360f4067948229a34f9
+Description: A theme with beautiful Linear icons filled with Pastel Colors!
+Author: JustNewDesigns
+Depiction: https://repo.cypwn.xyz/depiction/485
+Icon: https://havoc.app/media/62191b8893d1c5b25bbad90c
+Name: Crayon
+Sections: Themes
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/485
+
 Package: xyz.cypwn.flexing
 Version: 1.3.1
 Architecture: iphoneos-arm64
@@ -637,6 +654,41 @@ Depiction: https://repo.cypwn.xyz/depiction/131
 Icon: https://repo.dynastic.co/data/static/version/321967744838795264/321967745203699712?size=332
 Name: ImLyingDownDamnit
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/131
+
+Package: xyz.cypwn.iosx
+Version: 0.6.1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: com.spark.snowboard | net.dodtweaks.ithemer | com.anemonetheming.anemone | com.artikus.neonboard | winterboard
+Filename: debs/xyz.cypwn.iosx_0.6.1_iphoneos-arm64.deb
+Size: 8222932
+MD5sum: 6bdbd263a81444e73d78a2f3edc89ec0
+SHA1: a5365645658b0293b3f6155c2d0233236e048d13
+SHA256: 5b2cfcb2568ae96ff5f4e769f2abb50401a7ef105ab55215991a273dde64eee0
+Section: Themes
+Description: iOS with a hint of MacOS
+Author: Bank5ia <designbank5ia@gmail.com>
+Depiction: https://repo.cypwn.xyz/depiction/981
+Icon: https://media.havoc.app/629372b8284c9345b94ce507
+Name: iOSX
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/981
+
+Package: xyz.cypwn.junipero
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Filename: debs/xyz.cypwn.junipero_1.1_iphoneos-arm64.deb
+Size: 16826916
+MD5sum: d51ac8e07882df6a5a0a8ffbb1264f9f
+SHA1: c537c41dd9549265ae13d7b9a7943cb18ace0ed5
+SHA256: c25d6366861c5615cb0d5a59a95114a24bb338b16eb61c5fdac12534cab2e284
+Section: Themes
+Description: A stunning new look for iOS
+Author: xerusdesign
+Depiction: https://repo.cypwn.xyz/depiction/974
+Icon: https://media.havoc.app/63b84bd79d84843fe96beeb7
+Name: Junipero
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/974
 
 Package: xyz.cypwn.libflex
 Version: 5.22.10
@@ -712,6 +764,23 @@ Depiction: https://repo.cypwn.xyz/depiction/1119
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/pagebar.png
 Name: Pagebar
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1119
+
+Package: xyz.cypwn.peekdark
+Version: 2.3
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Filename: debs/xyz.cypwn.peekdark_2.3_iphoneos-arm64.deb
+Size: 5969044
+MD5sum: bd155e79c9e95dda63b478ba5825d020
+SHA1: 4fc568085f52bd2f69cc61b42b40fc877a634bf5
+SHA256: 61bc43fde742b1ac3d76e80e3be70b8092958fa97b3d1bf6706f673162501682
+Section: Themes
+Description: Dark Previews for iOS
+Author: XT
+Depiction: https://repo.cypwn.xyz/depiction/317
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/peekdark.png
+Name: Peek Dark
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/317
 
 Package: xyz.cypwn.rena
 Version: 1.0.0
