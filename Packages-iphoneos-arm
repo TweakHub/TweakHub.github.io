@@ -35,6 +35,38 @@ Author: Maxwell Dausch <max.dausch@gmail.com>
 Depiction: https://repo.daus.ch/depictions/?p=ch.mdaus.latchkey
 Name: LatchKey
 
+Package: com.boo.libscribble
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Boo
+Installed-Size: 168
+Filename: debs/com.boo.libscribble_1.0.0_iphoneos-arm64.deb
+Size: 10172
+MD5sum: 97dae09b675d09883f1b3afb0edc592c
+SHA1: 99d882d1d45bea834f76ec41e7d2c455e4e8aef2
+SHA256: eae6040d4af7a0fbdfcd81ba97bd95aebecafe97de7edb84a447bfa20df1142f
+Section: System
+Description: Scribble gesture library
+Tag: role::developer
+Author: Boo
+Name: libScribble
+
+Package: com.boo.scribble
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: Boo
+Installed-Size: 444
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.2), com.boo.libscribble, com.spark.libsparkcolourpicker, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/com.boo.scribble_2.1_iphoneos-arm64.deb
+Size: 42576
+MD5sum: 9063c327cd7dcb5c97f655590da8575d
+SHA1: 6e77b8356938c58f0d1e40d662eee614fe347ebe
+SHA256: 5ebdb0588fd911ad52b213ecf54b861987533ad336f9f9dec10202c1ae087d7f
+Section: Tweaks
+Description: Unlock your device with a scribble!
+Author: Boo
+Name: Scribble
+
 Package: com.chr1s.atlas
 Version: 1.0.4
 Architecture: iphoneos-arm64
