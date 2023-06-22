@@ -774,6 +774,25 @@ Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.macpass/icon.png
 Name: MacPass
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/176
 
+Package: xyz.cypwn.minotaur
+Version: 1.2.1k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 616
+Depends: mobilesubstrate, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/xyz.cypwn.minotaur_1.2.1k_iphoneos-arm64.deb
+Size: 144468
+MD5sum: 7b710002d86a0d439b21f4ddc033e1d0
+SHA1: 289fadd8d08b649ad126b49b545518769be301d0
+SHA256: ad8073e20a1a961b60481ce3ddf000c051c7618861cfcc12a394de68b5beef0b
+Section: Tweaks
+Description: Notifications in your Status Bar
+Author: Muirey03
+Depiction: https://repo.cypwn.xyz/depiction/188
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/minotaur.png
+Name: Minotaur
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/188
+
 Package: xyz.cypwn.pagebar
 Version: 0.0.1-alpha
 Architecture: iphoneos-arm64
@@ -1660,6 +1679,25 @@ Depiction: https://repo.cypwn.xyz/depiction/176
 Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.macpass/icon.png
 Name: MacPass
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/176
+
+Package: xyz.cypwn.minotaur
+Version: 1.2.1k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 616
+Depends: mobilesubstrate, preferenceloader, emt.paisseon.xinamine (>= 0.0.5)
+Filename: debs/xyz.cypwn.minotaur_1.2.1k_iphoneos-arm64.deb
+Size: 144468
+MD5sum: 7b710002d86a0d439b21f4ddc033e1d0
+SHA1: 289fadd8d08b649ad126b49b545518769be301d0
+SHA256: ad8073e20a1a961b60481ce3ddf000c051c7618861cfcc12a394de68b5beef0b
+Section: Tweaks
+Description: Notifications in your Status Bar
+Author: Muirey03
+Depiction: https://repo.cypwn.xyz/depiction/188
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/minotaur.png
+Name: Minotaur
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/188
 
 Package: xyz.cypwn.pagebar
 Version: 0.0.1-alpha
